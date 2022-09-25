@@ -1,3 +1,4 @@
+## Comandos de DML em banco de dados PostgreSQL:
 
 
 CREATE TABLE IF NOT EXISTS conta_corrente(
